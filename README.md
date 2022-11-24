@@ -4,8 +4,8 @@
 - 📫 You can reach me here
 
 level of this languages : 
--------------
-C++ : *******
-python : ****
-java : **
--------------
+*************
+- C++ : *******
+- python : ****
+- java : **
+*************
