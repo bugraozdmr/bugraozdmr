@@ -3,11 +3,5 @@
 - 🌱 I’m currently learning Python,Kali
 - 📫 You can reach me here
 
-level of this languages : 
-*************
-- C++ : *******
-- python : ****
-- java : **
-*************
 
 cyber security
