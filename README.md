@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-- 🔭 I’m currently working on **C**
+- 🔭 I’m currently working on **Ardunio**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Ardunio**
 
 - 📫 How to reach me **from here**
 
