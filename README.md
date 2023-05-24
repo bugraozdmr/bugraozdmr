@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Buğra</h1>
+<h1 align="center">Hi 👋</h1>
 - 🔭 I’m currently working on **Ardunio**
 
 - 🌱 I’m currently learning **Ardunio**
