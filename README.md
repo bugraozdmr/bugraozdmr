@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **from here**
 
+-->>check this link :: "https://bugraozdmr.github.io/"
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
