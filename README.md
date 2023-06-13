@@ -8,7 +8,7 @@
 
 -->>check this link :: "https://bugraozdmr.github.io/"
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: bugraozdmr</h3>
 <p align="left">
 </p>
 
