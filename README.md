@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **from here**
 
--->>check this link :: "https://bugraozdmr.github.io/"
+-->>my site :: "https://bugraozdmr.github.io/"
 
 <h3 align="left">Connect with me: bugraozdmr</h3>
 <p align="left">
