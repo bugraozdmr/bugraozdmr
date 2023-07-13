@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java<br>🌱 I’m currently learning Java<br>⚡ Fun fact :If you find any tell me.
+🔭 I’m currently working on Java<br>🌱 I’m currently learning Java<br>
 
 
 ## 🌐 Socials:
