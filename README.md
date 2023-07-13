@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ardunio<br>🌱 I’m currently learning Ardunio<br>⚡ Fun fact programming
+🔭 I’m currently working on Java<br>🌱 I’m currently learning Java<br>⚡ Fun fact :If you find any tell me.
 
 
 ## 🌐 Socials:
