@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on Java<br>---->
-🌱 I’m currently learning Java,Web Development<br>
+🌱 I’m currently learning Python Machine Learning<br>
 
 
 ## 🌐 Socials:
