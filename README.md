@@ -19,11 +19,6 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Grant&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Grant&label=Profile%20Views&icon=5&pretty=false" />
-</a>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  and I am so greatfull for that you can easly use thanks for helping me -->
