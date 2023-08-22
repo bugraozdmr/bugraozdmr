@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on Java<br>---->
 🌱 I’m currently learning Python Machine Learning<br>
-    Data Science
+🌱 Data Science
 
 
 ## 🌐 Socials:
