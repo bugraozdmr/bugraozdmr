@@ -26,7 +26,14 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bugraozdmr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+``` java
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - go on
+```
 
 
 
