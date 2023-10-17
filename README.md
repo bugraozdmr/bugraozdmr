@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on Java<br>---->
-🌱 I’m currently learning Python Machine Learning<br>
-🌱 Data Science
+<!--🌱 I’m currently learning Python Machine Learning<br>-->
+<!--🌱 Data Science-->
 
 I am a fast learner and eager to explore new technologies. An advocate of agile teamwork, and clean code. Able and ready to think outside the box.
 
