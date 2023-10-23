@@ -10,8 +10,6 @@ I'm a well organized person very passionate and dedicated to my work. I'm used t
 I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
 
 
-#comingbacksoon
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/buğra-özdemir-a500b9247) 
 
