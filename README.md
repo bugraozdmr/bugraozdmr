@@ -5,6 +5,8 @@
 
 I am Buğra. I am a student of Computer Science.
 
+I don't use arch btw
+
 <!--I am a fast learner and eager to explore new technologies. An advocate of agile teamwork, and clean code. Able and ready to think outside the box.
 
 I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
