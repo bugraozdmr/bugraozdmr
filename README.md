@@ -3,7 +3,7 @@
 <!--🌱 I’m currently learning Python Machine Learning<br>-->
 <!--🌱 Data Science-->
 
-I am Buğra. I am a student of Computer Science.
+I am Buğra. I am a student of Computer Science.I am a web developer and also I am very interested of Cyber Security.Check out my repos.
 
 I don't use arch btw
 
