@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Buğra+Özdemir;a.k.a+Grant+/+HttpAdam;Building+Softinger;Full-Stack+%26+AI+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" />
 </div>
 
@@ -28,7 +24,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bugraozdmr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=00F0FF&icon_color=00F0FF" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugraozdmr&theme=tokyonight&hide_border=true&title_color=00F0FF&ring=00F0FF&fire=00F0FF&sideNums=00F0FF" height="160" />
 </div>
 
